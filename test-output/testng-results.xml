@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-23T09:58:38Z" name="Default suite" finished-at="2021-09-23T09:58:38Z" duration-ms="51">
+    <groups>
+    </groups>
+    <test started-at="2021-09-23T09:58:38Z" name="Default test" finished-at="2021-09-23T09:58:38Z" duration-ms="51">
+      <class name="testngexamples.Exp_Testng2">
+        <test-method is-config="true" signature="login()[pri:0, instance:testngexamples.Exp_Testng2@27e47833]" started-at="2021-09-23T15:28:38Z" name="login" finished-at="2021-09-23T15:28:38Z" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="addEmp()[pri:0, instance:testngexamples.Exp_Testng2@27e47833]" started-at="2021-09-23T15:28:38Z" name="addEmp" finished-at="2021-09-23T15:28:38Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmp -->
+        <test-method signature="delEmp()[pri:0, instance:testngexamples.Exp_Testng2@27e47833]" started-at="2021-09-23T15:28:38Z" name="delEmp" finished-at="2021-09-23T15:28:38Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delEmp -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:testngexamples.Exp_Testng2@27e47833]" started-at="2021-09-23T15:28:38Z" name="logout" finished-at="2021-09-23T15:28:38Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- testngexamples.Exp_Testng2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
